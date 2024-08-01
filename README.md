@@ -5,7 +5,6 @@ This Python software extracts data from certificates of marks or any other image
 Features
 Bulk Image Processing: Handles large volumes of images in one go.
 Automated Data Extraction: Uses OCR to extract text and data from specified regions in the images.
-Rectangles and Labels: Allows for marking specific areas (rectangles) on the images and labeling them for accurate data extraction.
 Output to Sheets: Consolidates extracted data into well-organized sheets for easy analysis and use.
 How It Works
 Input Images: Provide a bulk of images that need to be processed.
